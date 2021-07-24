@@ -1,3 +1,4 @@
+Project Details emphasized in the report - paper.
 
 1) python main_Script.py
 main_script.py contains the Bert model and the training part. After the execution
@@ -19,7 +20,7 @@ Data
 	=> metrics.py (For computing the predictions from the output logits)
 	=> coqa.py (Pre-processing)
 	=> utils.py (Utility file that supplements pre-processing)
-suryamut_report.pdf => Final project report
+
 
 
 
