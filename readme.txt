@@ -1,4 +1,3 @@
-Steps to reproduce the results: 
 
 1) python main_Script.py
 main_script.py contains the Bert model and the training part. After the execution
